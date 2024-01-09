@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi! I'm June3141 👋
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=June3141)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **June3141/June3141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
